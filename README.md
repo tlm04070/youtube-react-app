@@ -1,3 +1,5 @@
+You-Tube clone is an app that is apart of a React course on Udemy by Stephen Grider 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
